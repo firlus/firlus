@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-!()[https://i.imgur.com/avq0t1Z.jpeg]
+![](https://i.imgur.com/avq0t1Z.jpeg)

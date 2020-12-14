@@ -6,7 +6,7 @@
 
 🌹 Co-Chairman of the Young Socialists (Jusos) Freising
 
-🏛️ Representative of the municipal council Kirchdorf a. d. Amper
+🏛️ Representative on the municipal council Kirchdorf a. d. Amper (Speaker for environment and mobility)
 
 # Personal projects
 

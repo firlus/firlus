@@ -27,6 +27,7 @@
 ![](https://github.com/alexgalkin/devicons/blob/master/png_128/java-plain-wordmark.png?raw=true)
 ![](https://github.com/alexgalkin/devicons/blob/master/png_128/docker-plain-wordmark.png?raw=true)
 ![](https://github.com/alexgalkin/devicons/blob/master/png_128/android-plain-wordmark.png?raw=true)
+![](https://github.com/alexgalkin/devicons/blob/master/png_128/nodejs-plain-wordmark.png?raw=true)
 
 ## Beginner Level
 ![](https://github.com/alexgalkin/devicons/blob/master/png_128/angularjs-plain-wordmark.png?raw=true)

@@ -15,3 +15,8 @@
 🌐 [firlus/firl.us](https://github.com/firlus/firl.us): Minimal URL shortener with admin panel written in Go
 
 🎮 [Neverrock](https://neverrock.de): Old-school Minecraft server with custom made maps and plugins together with my friends ([Neverrock](https://github.com/neverrock) and others)
+
+# What I can do
+
+## Advanced level
+![](https://github.com/alexgalkin/devicons/blob/master/png_128/html5-plain.png?raw=true)

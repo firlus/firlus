@@ -10,7 +10,7 @@
 
 # Personal projects
 
-🌹 [firlus/juso-sharepic-generator](https://github.com/firlus/juso-sharepic-generator): Generate images for social media in the look and feel of the young wing of the German Social Democratic Party (Jusos)
+🌹 [firlus/juso-sharepic-generator](https://github.com/firlus/jusos-sharepic-generator): Generate images for social media in the look and feel of the young wing of the German Social Democratic Party (Jusos)
 
 🌐 [firlus/firl.us](https://github.com/firlus/firl.us): Minimal URL shortener with admin panel written in Go
 

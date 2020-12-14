@@ -19,5 +19,9 @@
 # What I can do
 
 ## Advanced level
-![](https://github.com/alexgalkin/devicons/blob/master/png_128/html5-plain.png?raw=true)
-![](https://github.com/alexgalkin/devicons/blob/master/png_128/css3-plain.png?raw=true)
+![](https://github.com/alexgalkin/devicons/blob/master/png_128/html5-plain-wordmark.png?raw=true)
+![](https://github.com/alexgalkin/devicons/blob/master/png_128/css3-plain-wordmark.png?raw=true)
+![](https://github.com/alexgalkin/devicons/blob/master/png_128/javascript-plain-wordmark.png?raw=true)
+![](https://github.com/alexgalkin/devicons/blob/master/png_128/bootstrap-plain-wordmark.png?raw=true)
+![](https://github.com/alexgalkin/devicons/blob/master/png_128/sass-original.png?raw=true)
+![](https://github.com/alexgalkin/devicons/blob/master/png_128/java-plain-wordmark.png?raw=true)

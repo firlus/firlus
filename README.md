@@ -20,3 +20,4 @@
 
 ## Advanced level
 ![](https://github.com/alexgalkin/devicons/blob/master/png_128/html5-plain.png?raw=true)
+![](https://github.com/alexgalkin/devicons/blob/master/png_128/css3-plain.png?raw=true)

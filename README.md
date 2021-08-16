@@ -4,7 +4,7 @@
 
 💼 Junior Associate at projekt0708 in Munich (ABAP and JS Development)
 
-🌹 Co-Chairman of the Young Socialists (Jusos) Freising
+🌹 Chairman of the Young Socialists (Jusos) Freising
 
 🏛️ Representative on the municipal council Kirchdorf a. d. Amper (Speaker for environment and mobility)
 

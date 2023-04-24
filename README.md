@@ -2,15 +2,13 @@
 
 🎓 Student majoring in Computer Science at Munich University of Applied Sciences
 
-💼 Junior Associate at projekt0708 in Munich (ABAP and JS Development)
+💼 Software Developer at [Die Websitemacherei](https://diewebsitemacherei.de)
 
 🌹 Chairman of the Young Socialists (Jusos) Freising
 
-🏛️ Representative on the municipal council Kirchdorf a. d. Amper (Speaker for environment and mobility)
+🏛️ Representative on the Municipal Council of Kirchdorf a. d. Amper (Speaker for environment and mobility)
 
-# Project as a student assistant
-
-📊 [YAARS](https://github.com/teaching-networks) (Yet Another Audience Response Response System): A polling software for university with PowerPoint integration in cooperation with [wischhof](https://github.com) and [1c3t3a](https://github.com/1c3t3a).
+🗳️ Social-Democrat Candidate for Freising for the District Parliament of Upper Bavaria [(Have a look at my campaign website)](https://firlus.bayern)
 
 # Personal projects
 

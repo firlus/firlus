@@ -16,4 +16,4 @@
 
 🌐 [firl.us](https://github.com/firlus/firl.us): Minimal URL shortener with admin panel written in Go
 
-🎮 [Neverrock](https://neverrock.de): Old-school Minecraft server with custom made maps and plugins together with my friends ([Neverrock](https://github.com/neverrock) and others)
+🏛️ [Parliament Simulator](https://parliament.firlus.dev): Web App to simulate votings in parliaments across the world

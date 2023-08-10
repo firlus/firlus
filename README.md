@@ -10,6 +10,9 @@
 
 🗳️ Social-Democrat Candidate for Freising for the District Parliament of Upper Bavaria [(Have a look at my campaign website)](https://firlus.bayern)
 
+# What I can do
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 # Personal projects
 
 🌹 [jusos.pics](https://github.com/firlus/jusos-sharepic-generator): Generate images for social media in the look and feel of the young wing of the German Social Democratic Party (Jusos)

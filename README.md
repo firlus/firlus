@@ -11,7 +11,7 @@
 🗳️ Social-Democrat Candidate for Freising for the District Parliament of Upper Bavaria [(Have a look at my campaign website)](https://firlus.bayern)
 
 # What I can do
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" />
 
 # Personal projects
 

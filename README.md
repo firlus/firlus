@@ -1,8 +1,8 @@
 # Who I am
 
-🎓 Student majoring in Computer Science at Munich University of Applied Sciences
+🎓 Student majoring in Computer Science at Fernuni Hagen
 
-💼 Software Developer at [Die Websitemacherei](https://diewebsitemacherei.de)
+💼 Software Engineer at [Die Websitemacherei](https://diewebsitemacherei.de)
 
 🌹 Chairman of the Young Socialists (Jusos) Freising
 
